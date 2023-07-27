@@ -1,0 +1,16 @@
+.default {
+    background-color: blue ; 
+    color : red ;
+    height:50px;
+    width: 100px;
+}
+.red {
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 100px;
+}
+
+.round{
+   border-radius: 50px;
+}
